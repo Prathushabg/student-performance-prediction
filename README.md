@@ -1,4 +1,8 @@
 # 🎓 EduPredict AI
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
 
 An AI-powered Student Performance Prediction System built using Machine Learning and Streamlit. The application predicts students' mathematics scores based on academic and personal factors while providing interactive visualizations and performance analytics.
 
@@ -7,7 +11,7 @@ An AI-powered Student Performance Prediction System built using Machine Learning
 🔗 https://student-performance-prediction-lv6stfctxupfappitrquwu6.streamlit.app/
 ## 💻 GitHub Repository
 
-🔗 
+🔗 https://github.com/Prathushabg/student_performance_prediction1
 
 ## ✨ Features
 
