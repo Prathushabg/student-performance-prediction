@@ -4,7 +4,11 @@ import streamlit as st
 # ---------------- USER CREDENTIALS ---------------- #
 
 USERS = {
+<<<<<<< HEAD
     "prathusha": "prathusha123"
+=======
+   "prathusha": "prathusha123"
+>>>>>>> 5eb2d3e3a8f5c4e8f030bc7dc2bd9c73b99f460e
 }
 
 
