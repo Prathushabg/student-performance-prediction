@@ -1,17 +1,25 @@
 # 🎓 EduPredict AI
 
-An AI-powered Student Performance Prediction System built using Machine Learning and Streamlit.
+An AI-powered Student Performance Prediction System built using Machine Learning and Streamlit. The application predicts students' mathematics scores based on academic and personal factors while providing interactive visualizations and performance analytics.
 
-## Features
+## 🚀 Live Demo
 
-- 🔐 Login System
+🔗 https://student-performance-prediction-lv6stfctxupfappitrquwu6.streamlit.app/
+## 💻 GitHub Repository
+
+🔗 
+
+## ✨ Features
+
+- 🔐 User Login System
 - 🤖 Student Performance Prediction
 - 📊 Interactive Dashboard
 - 📜 Prediction History
-- 💾 SQLite Database
+- 💾 SQLite Database Integration
 - 📈 Data Visualization
+- 🎨 User-Friendly Interface
 
-## Technologies
+## 🛠️ Technologies Used
 
 - Python
 - Streamlit
@@ -21,19 +29,48 @@ An AI-powered Student Performance Prediction System built using Machine Learning
 - SQLite
 - Joblib
 
-## Machine Learning
+## 🤖 Machine Learning
 
-Algorithm:
-Random Forest Regressor
+**Algorithm Used:** Random Forest Regressor
 
-## Developer
+The model predicts students' mathematics performance based on:
+- Gender
+- Race/Ethnicity
+- Parental Education
+- Lunch Type
+- Test Preparation Course
+- Reading Score
+- Writing Score
 
-Sindhu K
+## 📂 Project Structure
+
+```
+Student_Performance_Prediction/
+│── app.py
+│── predict.py
+│── dashboard.py
+│── database.py
+│── auth.py
+│── train_model.py
+│── requirements.txt
+│── dataset/
+│── images/
+│── model/
+```
+
+## ▶️ Run the Project
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 👩‍💻 Developer
+
+**prathusha BG**
 
 Computer Science Engineering (Data Science)
 
-## Run Project
+---
 
-```bash
-streamlit run app.py
-```
+⭐ If you found this project useful, consider giving it a star!
