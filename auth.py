@@ -4,8 +4,7 @@ import streamlit as st
 # ---------------- USER CREDENTIALS ---------------- #
 
 USERS = {
-    "admin": "1234",
-    "sindhu": "sindhu123"
+    "prathusha": "prathusha123"
 }
 
 

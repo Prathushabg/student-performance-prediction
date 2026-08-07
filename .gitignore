@@ -3,4 +3,3 @@ __pycache__/
 *.pyc
 *.zip
 students.db
-model/student_model.pkl
