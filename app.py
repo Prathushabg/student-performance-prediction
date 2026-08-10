@@ -463,7 +463,7 @@ elif menu == "👨‍💻 About":
     """
     Developed by:
 
-    Sindhu K
+    prathusha BG
 
     Computer Science Engineering
     (Data Science)
