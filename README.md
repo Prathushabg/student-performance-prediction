@@ -11,7 +11,7 @@ An AI-powered Student Performance Prediction System built using Machine Learning
 🔗 https://student-performance-prediction-lv6stfctxupfappitrquwu6.streamlit.app/
 ## 💻 GitHub Repository
 
-🔗 https://github.com/Prathushabg/student_performance_prediction1
+🔗 https://github.com/Prathushabg/student-performance-prediction
 
 ## ✨ Features
 
